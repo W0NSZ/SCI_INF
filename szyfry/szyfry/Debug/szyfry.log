@@ -1,0 +1,4 @@
+﻿  szyfry.cpp
+c:\users\mojan\source\repos\szyfry\szyfry\szyfry.cpp(7): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mojan\source\repos\szyfry\szyfry\szyfry.cpp(25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  szyfry.vcxproj -> C:\Users\mojan\source\repos\szyfry\Debug\szyfry.exe
